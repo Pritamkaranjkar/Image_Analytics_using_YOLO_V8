@@ -1,0 +1,11 @@
+path: E:\@RUIA\Data Science\Internal Project\Segmentation\x-ray
+train: images/train 
+val: images/val  
+
+# nc: 3
+# names: ['Fractured','Bacteria','Virus']
+
+names:
+  0: Fractured
+  1: Bacteria
+  2: Virus

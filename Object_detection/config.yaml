@@ -1,0 +1,10 @@
+
+path: E:\\@RUIA\\Data Science\\Internal Project\\Object_detection\\x-ray # dataset root dir
+train: images\train  # train images (relative to 'path')
+val: images\train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: Fractured
+  1: Bacteria
+  2: Virus
